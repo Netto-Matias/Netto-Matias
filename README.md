@@ -1,16 +1,24 @@
-## Hi there 👋
+### ¡Hola! Soy Matías 👋
 
-<!--
-**Netto-Matias/Netto-Matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Ingeniero de Automatización de QA (SDET)** con un fuerte background en Data Science y Python.
 
-Here are some ideas to get you started:
+Me apasiona construir frameworks de prueba robustos y asegurar la calidad del software, desde la UI hasta la API y la integridad de los datos en el backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mi Proyecto Destacado
+
+* **[Framework de Automatización de QA (Selenium + Pytest)](https://github.com/Netto-Matias/Framework-QA-Python)**
+    * Un framework completo construido desde cero con Page Object Model (POM) y pruebas de API.
+
+### 💻 Mi Stack Tecnológico de QA
+
+* **Lenguajes:** Python, SQL
+* **Automatización UI:** Selenium WebDriver
+* **Automatización API:** Requests, Postman
+* **Testing y Herramientas:** Pytest, POM, Git, GitHub
+
+---
+
+📫 **Cómo contactarme:**
+* [LinkedIn](https://www.linkedin.com/in/tu-perfil)
